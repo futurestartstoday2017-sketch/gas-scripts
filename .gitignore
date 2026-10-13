@@ -1,0 +1,19 @@
+# clasp（scriptId や認証情報を含む）
+.clasp.json
+.clasprc.json
+
+# 認証情報・環境変数
+credentials*.json
+client_secret*.json
+token*.json
+.env
+.env.*
+
+# Node.js
+node_modules/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
